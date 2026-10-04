@@ -14,7 +14,7 @@ jobs:
       matrix:
         include:
           - week: week01
-            tests: test_week01_knn.py
+            tests: test_week01.py
           - week: week02
             tests: test_week02.py
     steps:
